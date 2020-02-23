@@ -26,6 +26,10 @@ p {
     text-align: left;
 }
 
+li a {
+  color: #a48db9;
+}
+
 /* Upper Content */
 
 h2 {
